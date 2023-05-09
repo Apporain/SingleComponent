@@ -1,0 +1,66 @@
+.colour-border {
+    border-color: #24485B;
+}
+.colour-top {
+    background-color: #D3F3D9;
+}
+
+.colour-left {
+    background-color: #43748e;
+}
+
+.colour-right {
+    background-color: #42C258;
+}
+
+.colour-5 {
+    background-color: #ef9f96;
+}
+
+.text-dark {
+    color: #36453B;
+}
+
+.text-light {
+    color: #FFFFFF
+}
+.left-bottom-border-blur {
+    border-bottom-left-radius: 15px;
+}
+
+.right-bottom-border-blur {
+    border-bottom-right-radius: 15px;
+}
+
+.left-top-border-blur {
+    border-top-left-radius: 15px;
+}
+
+.right-top-border-blur {
+    border-top-right-radius: 15px;
+}
+
+.aspect-container {
+    padding-top: 56.25%;
+}
+
+.text-container {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.btn:hover {
+    color: #FFFFFF;
+    background-color: #24485B;
+    border-color: #24485B;
+  }
+
+.vertical-center {
+    margin: 0;
+    position: absolute;
+    left: 40%;
+    -ms-transform: translateX(-40%);
+    transform: translateX(-40%);
+}
