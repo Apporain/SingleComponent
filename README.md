@@ -1,2 +1,1 @@
 "# SingleComponent" 
-"# SingleComponent" 
